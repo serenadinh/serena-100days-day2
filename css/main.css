@@ -1,0 +1,72 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+/* NAVIGATION BAR*/
+.navbar-brand {
+	text-transform: uppercase;
+}
+/* LANDING PAGE*/
+.landing-page {
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+.landing-page, img{
+	position: relative;
+	width: 100%;
+}
+.landing-text {
+	position: absolute;
+	top: 250px;
+	width: 100%;
+	text-transform: uppercase;
+}
+#landing-button {
+	padding: 15px 25px;
+	border-radius: 150em;
+	text-transform: uppercase;
+}
+/* MISSION STATEMENT*/
+#mission-statement {
+	text-align: center;
+	font-family: Arial, sans-serif;
+	padding: 120px;
+}
+.h2-mission, .p-mission, .p-credit {
+	padding: 15px;
+}
+/* TAKE ACTIONS */
+#take-actions1, #take-actions2 {
+	padding-top: 0;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 75px;
+}
+#about-info {
+	text-align: center;
+}
+button {
+	padding: 15px 25px;
+	border-radius: 150em;
+	text-transform: uppercase;
+}
+/* SUBSCRIBE */
+.subscribe {
+	text-align: center;
+	padding: 120px;
+}
+#subscribe-id, #btn-submit {
+	display: inline-block;
+}
+.btn-primary {
+	padding: 15px 25px;
+	border-radius: 150em;
+	text-transform: uppercase;
+}
+/* FOOTER */
+footer {
+	text-align: center;
+	padding: 50px;
+	background-color: #383A3F;
+}
+
